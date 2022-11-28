@@ -1766,7 +1766,7 @@ pre code {
 @media (max-width: 575.98px) {
 
   .modal-content {
-    margin-top:90%!important;
+    margin-top:60%!important;
   }
 
   .table-responsive-sm {
@@ -5466,7 +5466,7 @@ body.modal-open .container{
   outline: 0;
   color:#fff;
   border-radius:12px;
-  margin-top:35%;
+  margin-top:25%;
 }
 
 .modal-backdrop {
@@ -5534,7 +5534,7 @@ body.modal-open .container{
 
 @media (min-width: 576px) {
   .modal-dialog {
-    max-width: 410px;
+    max-width: 480px;
     margin: 1.75rem auto;
   }
   .modal-dialog-scrollable {
